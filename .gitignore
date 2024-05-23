@@ -1,1 +1,9 @@
-novnc.pem
+.gradle
+/.idea
+/local.properties
+/build
+/captures
+.DS_Store
+*.iml
+*.apk
+*.jobf
